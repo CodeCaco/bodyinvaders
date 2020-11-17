@@ -3,6 +3,9 @@
 body {
 	font-family: 'Bubblegum Sans';
 	font-size: 22px;
+	margin: 0;
+	width: auto;
+	height: auto;
 }
 header {
 	text-align: center;
